@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     A([Inicio]) --> B[/Leia o valor da compra/]
     B --> C{Valor maior que 100?}
@@ -7,3 +8,4 @@ flowchart TD
     E --> F
     F --> G[/Escreva o valor final a pagar/]
     G --> H([Fim])
+```
